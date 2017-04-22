@@ -58,9 +58,9 @@
                         <div class="nav-collapse collapse">
                             <ul class="nav nav-pills ddmenu">
                                 <li class="dropdown"><a href="index.html">Home</a></li>
-								<li class="dropdown"><a href="about.html">About</a></li>
+								<!-- <li class="dropdown"><a href="about.html">About</a></li> -->
                                 <li class="dropdown">
-                                    <a href="page.html" class="dropdown-toggle">Page <b class="caret"></b></a>
+                                   <!-- <a href="page.html" class="dropdown-toggle">Page <b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                             <li><a href="full.html">Full Page</a></li>
                             <li><a href="2-column.html">Two Column</a></li>
@@ -75,8 +75,8 @@
                             </ul>
                             </li>
                             </ul>
-                                </li>
-                                <li class="dropdown"><a href="gallery.html">Gallery</a></li>
+                                </li> -->
+                                <!--<li class="dropdown"><a href="gallery.html">Gallery</a></li> -->
                                 <li class="dropdown active"><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
@@ -248,7 +248,7 @@
             <div class="row-fluid">
                 <div class="span12">
                     <p class="copyright">
-                        Copyright © 2013 Your Company. All Rights Reserved.
+                        Copyright © 2017 osc.org.ua. All Rights Reserved.
                     </p>
 
                     <p class="social_bookmarks">
